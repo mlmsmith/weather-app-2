@@ -1,1 +1,1 @@
-# weather-app-2
+This project is an app that provides the current, maximum, minimum and real feel of the temperature, wind spead, humidity, sunrise and sunset of a specified city. The app uses the the Open Weather API to provide the data.
